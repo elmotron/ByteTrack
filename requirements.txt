@@ -21,4 +21,4 @@ onemetric
 # verified versions
 onnxruntime==1.13.1
 onnx==1.13.0
-onnx-simplifier==0.4.35
+onnxsim==0.4.33
